@@ -1,0 +1,22 @@
+.quiz-result h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.quiz-result p {
+  font-size: 18px;
+}
+
+.reset-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.reset-button:hover {
+  background-color: #45a049;
+}
